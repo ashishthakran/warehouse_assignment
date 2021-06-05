@@ -15,7 +15,7 @@ Some shortcuts or cases that are not handled:
 2. Hardcoded values which can be moved to some static constants.
 3. Detailed Logging throughout the application to gather as much as information.
 4. Smart file processing (e.g. partial file and large file processing). Currently, application will process whole file or will not process at all.
-5. Application allows a maximum <b>512 MB</b> file size to upload.
+5. Application allows a maximum <b>1 MB</b> file size to upload.
 6. Only JSON files allowed to process.
 7. 100% code coverage using tests is not complete.
 
