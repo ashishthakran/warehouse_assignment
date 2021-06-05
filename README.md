@@ -52,8 +52,8 @@ Maven and JDK 1.8 must be exported in user's PATH variable.
 
 ### Pull from git
 ```
-$ git clone https://github.com/MarktplaatsShowAndTell/eCG_Aashish_Thakran.git
-$ cd eCG_Aashish_Thakran
+$ git clone https://github.com/ashishthakran/warehouse_assignment.git
+$ cd warehouse_assignment
 ```
 
 ### Build & run
